@@ -1,0 +1,6 @@
+pygame
+pillow
+pycaw
+comtypes
+pywin32
+mutagen
