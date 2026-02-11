@@ -1,5 +1,7 @@
 # 🔥 DarkFimoz Chaos Virus
 
+**English** | [Русский](README_RU.md)
+
 > **⚠️ DISCLAIMER: This is a HARMLESS visual effects program for entertainment purposes only. It does NOT damage your system, steal data, or perform any malicious actions.**
 
 A spectacular visual chaos simulator that creates "hacker movie" effects synchronized with music. Watch your screen melt, glitch, and go crazy - all completely safe and reversible!
