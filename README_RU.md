@@ -41,12 +41,8 @@ python virus.py
 ### Вариант 2: Собрать EXE
 
 ```bash
-# Автоматическая сборка (рекомендуется)
-install_and_build.bat
-
-# Или вручную
-pip install pyinstaller
-python -m PyInstaller --onefile --noconsole --add-data="sounds.mp3;." virus.py
+# Просто запусти builder
+builder.bat
 ```
 
 EXE файл будет в папке `dist/`.
@@ -98,9 +94,7 @@ darkfimoz-chaos-virus/
 ├── virus.py                 # Основная программа
 ├── sounds.mp3              # Твой музыкальный файл (не включён)
 ├── requirements.txt        # Python зависимости
-├── build_simple.bat        # Собрать EXE (без консоли)
-├── build_with_console.bat  # Собрать EXE (с консолью для отладки)
-├── install_and_build.bat   # Установить зависимости + собрать
+├── builder.bat             # Собрать EXE файл
 ├── README.md               # Английская версия
 ├── README_RU.md            # Этот файл
 ├── LICENSE                 # Лицензия с требованием атрибуции
